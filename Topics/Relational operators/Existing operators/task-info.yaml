@@ -1,0 +1,35 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: ==
+- text: '&gt;&gt;&gt;'
+- text: '&gt;'
+- text: '&lt;='
+- text: '&lt;&lt;'
+- text: '&lt;&gt;'
+- text: =
+- text: '!='
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2053#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 09 Aug 2022 21:28:55 UTC
+record: -1
+selected_options:
+- 0
+- 2
+- 3
+- 7
+local_check: false

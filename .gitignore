@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Conditional statement/Leap year/out/
+/Topics/Conditional statement/Leap year/out/production/classes/
+/Topics/Conditional statement/Symmetrical number/out/
+/Topics/Conditional statement/Symmetrical number/out/production/classes/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/The army of units/out/production/classes/
+/Topics/Relational operators/Is between/out/
+/Topics/Relational operators/Is between/out/production/classes/

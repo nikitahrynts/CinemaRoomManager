@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Conditional_statement-Leap_year.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Conditional_statement-Symmetrical_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Conditional_statement-The_army_of_units.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Is_between.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
